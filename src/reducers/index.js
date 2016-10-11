@@ -7,7 +7,5 @@ export default combineReducers({
 	//assigned LibraryReducer to libraries key (key indicates how it will appear on state object)
 	libraries: LibraryReducer,
 	selectedLibraryId: SelectionReducer
-
-
 });
 
